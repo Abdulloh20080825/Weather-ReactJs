@@ -63,6 +63,7 @@ const App = () => {
     >
       <main>
         <div className="search-box">
+          <h1>Weather Application</h1>
           <input
             type="text"
             placeholder="Search..."
